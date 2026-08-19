@@ -2,6 +2,11 @@
     "id": 55224007,
     "name": "Distraught",
     "author": "Alkali",
-    "creators": ["Alkali & more"]
-    "verification": "https://www.youtube.com/watch?v=q_q9Js5yqSY",
+    "creators": ["Alkali & more"],
+    "verifier": "Solo_Creator",
+    "verification": "https://www.youtube.com/watch?v=q_q9Js5yqSY&t=16s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    ]
 }
