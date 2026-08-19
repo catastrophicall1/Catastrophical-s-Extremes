@@ -3,10 +3,15 @@
     "name": "Distraught",
     "author": "Alkali",
     "creators": ["Alkali & more"],
-    "verifier": "Solo_Creator",
+    "verifier": "Catastrophical",
     "verification": "https://www.youtube.com/watch?v=q_q9Js5yqSY&t=16s",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [ {
+            "user": "WaxySs",
+            "link": "https://www.youtube.com/watch?v=xKIeGqiMfRQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
