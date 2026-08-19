@@ -1,18 +1,8 @@
 {
-    "id": 57436521,
+    "id": 42117203,
     "name": "Hyper Paracosm",
     "author": "iIiViRuZiIi",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "creators": ["TheRealSneaky", "iIiViRuZiIi"],
     "verification": "https://www.youtube.com/watch?v=BZY0Dc30bhI",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+
 }
