@@ -1,6 +1,6 @@
 {
      "id": 83676299,
-    "name": "Sample Level 3",
+    "name": "Wild Rose",
     "author": "Galaxxyss",
     "creators": ["Galaxxyss & more"],
     "verifier": "Solo_Creator",
@@ -9,16 +9,16 @@
     "password": "46290",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Basil_flowerboy",
+            "link": "https://www.youtube.com/watch?v=mTEFQdinSoc",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "HeathcliffEarnshaw",
+            "link": "https://www.youtube.com/watch?v=FlBNtHQUPiU",
             "percent": 100,
-            "hz": 120
+            "hz": 240
             
 }
     ]
