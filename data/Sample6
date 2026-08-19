@@ -1,0 +1,17 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot & more"],
+    "verifier": "Catastrophical",
+    "verification": "https://www.youtube.com/watch?v=oJZTgw0T4T4",
+    "percentToQualify": "74",
+    "password": "Free To Copy",
+    "records": [ {
+            "user": "WaxySs",
+            "link": "https://www.youtube.com/watch?v=XIerFXyUGv4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
